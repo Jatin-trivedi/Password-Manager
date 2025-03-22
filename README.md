@@ -23,10 +23,15 @@ This is a secure password manager built with Python and PyQt6. It allows users t
 ### 📂 Project Structure
 
 📦 Password-Manager
+
  ├── 📜 main.py           # Main application file
+ 
  ├── 📜 gui.py            # GUI implementation
+ 
  ├── 📜 secret.key       # Encryption key (Generated at runtime)
+ 
  ├── 📜 passwords.json   # Stored passwords (Encrypted)
+ 
  ├── 📜 README.md        # Project Documentation
 
 ### 🚀 Installation
